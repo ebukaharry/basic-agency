@@ -18,7 +18,7 @@
                         <img src="../assets/media/patagonia.webp" alt="patagonia">
                     </div>
                     <div class="img-text uppercase mt-3">
-                        <h1 class="text-[22px] md:text-lg hover:underline font-semibold font-[SctoGroteskA] tracking-tighter">Patagonia</h1>
+                        <h1 class="text-[22px] md:text-lg hover:underline font-[SctoGroteskA] tracking-tighter">Patagonia</h1>
                         <p class="text-[10px] md:text-[11px] xl:text-[13px] font-[SctoGroteskA] pt-[0.4rem] xl:pt-[1.5rem] w-[100px] md:w-[230px]">
                             an ecommerce experience driven by patagonia's brand mission
                         </p>
@@ -31,7 +31,7 @@
                         <img src="../assets/media/wilson.webp" alt="wilson">
                     </div>
                     <div class="img-text uppercase mt-3">
-                        <h1 class="text-[22px] md:text-lg hover:underline font-semibold font-[SctoGroteskA]">Wilson</h1>
+                        <h1 class="text-[22px] md:text-lg hover:underline font-[SctoGroteskA]">Wilson</h1>
                         <p class="text-[10px] md:text-[11px] xl:text-[13px] font-[SctoGroteskA] pt-[0.4rem] xl:pt-[1.5rem] w-[100px] md:w-[230px]">
                             a century-old sports brand finding its place in culture
                         </p>
@@ -40,9 +40,9 @@
             </a>
             <a href="#" class="">
                 <div class="img-container w-[280px] md:w-[350px] lg:w-[450px] xl:w-[500px]">
-                    <video autoplay loop muted src="../assets/media/google-store.mp4" alt="google-store"></video>
+                    <video autoplay loop playsinline muted src="../assets/media/google-store.mp4" alt="google-store"></video>
                     <div class="img-text uppercase mt-3">
-                        <h1 class="text-[22px] md:text-lg hover:underline font-semibold font-[SctoGroteskA]">Google Store</h1>
+                        <h1 class="text-[22px] md:text-lg hover:underline font-[SctoGroteskA]">Google Store</h1>
                         <p class="text-[10px] md:text-[11px] xl:text-[13px] font-[SctoGroteskA] pt-[0.4rem] xl:pt-[1.5rem] w-[100px] md:w-[230px]">
                             an ecommerce experience helping google bring its hardware to people across the globe
                         </p>
