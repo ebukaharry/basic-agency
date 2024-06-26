@@ -20,7 +20,7 @@
                     <div class="w-[22px] h-0.5 bg-[#252422] my-5"></div>
                 </div>
                 <div class="brand-details my-11 xl:mt-24">
-                    <h1 class="text-lg xl:text-xl tracking-tighter font-bold font-[SctoGroteskA] uppercase">
+                    <h1 class="text-lg xl:text-xl tracking-tighter xl:font-bold font-[SctoGroteskA] uppercase">
                         {{ brand.name }}
                     </h1>
                     <p class="desc pt-3 text-sm xl:text-lg font-[SctoGroteskA] tracking-tight">
