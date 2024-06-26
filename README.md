@@ -1,6 +1,6 @@
-# basic
+# basic-agency
 
-This template should help get you started developing with Vue 3 in Vite.
+BASIC/DEPT's (https://basicagency.com) homepage clone. Built using Vuejs and TailwindCSS.
 
 ## Recommended IDE Setup
 
