@@ -1,5 +1,5 @@
 <template>
-    <div class="awards py-4 xl:py-40 my-10 xl:my-20 xl:mx-20 flex mx-4 justify-around uppercase text-[8px] md:text-[10px] xl:text-[13px] font-semibold text-center">
+    <div class="awards py-4 xl:py-40 my-10 xl:my-20 xl:mx-20 flex mx-4 justify-around uppercase text-[8px] md:text-[10px] xl:text-[13px] text-center">
         <div class="single-award w-[23%] md:max-w-[16%] xl:max-w-[13%]">
             <img src="../assets/media/adage.svg" alt="adage" class="aspect-[175/101]">
             <div class=" pt-[1.5rem]"><a href="#">design and branding agency of the year</a></div>
