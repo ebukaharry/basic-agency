@@ -9,10 +9,10 @@
                     <h3 class="text-[22px] md:text-[24px] xl:text-[42px] font-[SctoGroteskA] text-[#252422] leading-6 xl:leading-[2.5rem] tracking-tighter uppercase">{{ news.title }}</h3>
                     <img src="../assets/icons/arrow.svg" alt="arrow" class="arrow hidden md:block md:w-[2rem] md:h-[2rem] ml-[6rem] md:ml-[4rem]" ref="arrow">
                 </div>
-                <p class="hidden md:block md:text-[11px] xl:text-[14px] mb-[-5px] font-[SctoGroteskA] text-[#252422] tracking-tighter uppercase"><span class="font-bold font-[SctoGroteskA]">press </span> {{ news.date }}</p>
+                <p class="hidden md:block md:text-[11px] xl:text-[14px] mb-[-5px] font-[SctoGroteskA] text-[#252422] tracking-tighter uppercase"><span class="xl:font-bold font-[SctoGroteskA]">press </span> {{ news.date }}</p>
             </div>
             <div class="md:hidden news-date flex justify-between items-center my-4">
-                <p class="text-[10px] md:text-[12px] font-[SctoGroteskA] text-[#252422] leading-6 tracking-tighter uppercase"><span class="font-bold font-[SctoGroteskA]">press </span> {{ news.date }}</p>
+                <p class="text-[10px] md:text-[12px] font-[SctoGroteskA] text-[#252422] leading-6 tracking-tighter uppercase"><span class="xl:font-bold font-[SctoGroteskA]">press </span> {{ news.date }}</p>
                 <img src="../assets/icons/arrow.svg" alt="arrow" class="arrow w-[1.2rem] h-[1.2rem] md:w-[12px] md:h-[12px]">
             </div>
         </div>
