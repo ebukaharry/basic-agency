@@ -4,7 +4,7 @@
         text-[22px] md:text-[24px] xl:text-[42px] 
         max-w-[45%] xl:max-w-[22%]
         tracking-tighter font-[SctoGroteskA] 
-        uppercase mb-16 md:mb-32 font-bold"
+        uppercase mb-16 md:mb-32 xl:font-bold"
     >
         {{ heading }}
     </h1>
