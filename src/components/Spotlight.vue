@@ -4,7 +4,7 @@
             <video src="../assets/media/spotlight.mp4" autoplay muted playsinline loop></video>
         </div>
         <div class="spotlight-text md:w-[45%] lg:w-[45%] xl:w-[50%]">
-            <h1 class="text-[40px] md:text-[46px] lg:text-[64px] xl:text-[6.55rem] tracking[-0.1] xl:tracking-tighter lg:tracking-[-0.08em] leading-[2.2rem] md:leading-[.9] lg:leading-[3.4rem] xl:leading-[5.8rem] font-[SctoGroteskA] text-[#252422] uppercase">BASIC/DEPT® <br> helps brands ● connect w/ culture</h1>
+            <h1 class="text-[40px] md:text-[46px] lg:text-[64px] xl:text-[6.55rem] tracking-[-0.1] xl:tracking-tighter lg:tracking-[-0.08em] leading-[2.2rem] md:leading-[.9] lg:leading-[3.4rem] xl:leading-[5.8rem] font-[SctoGroteskA] text-[#252422] uppercase">BASIC/DEPT® <br> helps brands ● connect w/ culture</h1>
             <h6 class="text-[15px] lg:text-[14px] xl:text-[19px] tracking-tighter leading-6 uppercase my-4 lg:mt-6 xl:my-6">adweek <span class="font-[SctoGroteskA] xl:font-bold">agency spotlight</span></h6>
             <div class="button xl:mt-20">
                 <Button text="about us" link="#" />
