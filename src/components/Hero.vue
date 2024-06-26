@@ -4,7 +4,7 @@
        <div class="cursor bg-white w-[5rem] h-[5rem] rounded-full select-none pointer-events-none text-center text-[10px] font-[SctoGroteskA] flex xl:hidden justify-center items-center">WATCH<br>REEL</div>
 
        <div class="cursor-outline bg-white w-[8rem] h-[8rem] rounded-full select-none pointer-events-none text-center text-[13px] font-[SctoGroteskA] flex justify-center items-center" data-cursor-outline>WATCH<br>REEL</div>
-    <video autoplay muted loop class="hero-vid" >
+    <video autoplay muted playsinline loop class="hero-vid" >
         <source src="../assets/media/hero-vid.mp4" type="video/mp4">
     </video> 
     </div>
