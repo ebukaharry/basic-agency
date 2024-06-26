@@ -2,7 +2,8 @@
     <div class="
         button bg-[transparent] max-w-max h-max
         flex justify-center rounded-3xl 
-        font-[SctoGroteskA] uppercase 
+        font-[SctoGroteskA] uppercase
+        xl:font-bold
         text-xs py-[.4rem] px-[2rem] 
         tracking-[-.02em] border-[.1rem]
         hover:cursor-pointer"
