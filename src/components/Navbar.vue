@@ -72,7 +72,7 @@ export default {
                 link: "#"
             },
             {
-                name: "Initiatives",
+                name: "Initiatives >",
                 link: "#",
                 display: "hidden",
             }
