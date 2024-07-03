@@ -1,7 +1,6 @@
-# basic-agency
+# basic-agency landing page (replicated)
 
-BASIC/DEPT's (https://basicagency.com) homepage clone. Built using Vuejs and TailwindCSS.
-
+Recreated the landing page of basic agency's website (https://basicagency.com). This was a challenge from Frontend Practice.
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
