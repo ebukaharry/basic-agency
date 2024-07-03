@@ -1,6 +1,6 @@
 # basic-agency landing page (replicated)
 
-Recreated the landing page of basic agency's website (https://basicagency.com). This was a challenge from Frontend Practice.
+Recreated the landing page of basic agency's website (https://basicagency.com). This was a challenge from Frontend Practice. Built using Vuejs andd TailwindCSS.
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
